@@ -1,6 +1,5 @@
 # Data type: `integer` and `float`
-A `string` is a data type that contains a data structure of bytes (or words) that stores a sequence of elements, typically characters.
-`Strings` can be stored in variables and are declared with " or ' at the beginning and the end.
+An `integer`, or `int`, is a whole number. It has no decimal point and contains all counting numbers (1, 2, 3, …) as well as their negative counterparts and the number 0. A floating-point number, or a `float`, is a decimal number. It can be used to represent fractional quantities as well as precise measurements.
 ```
 integer = 17
 float = 3.5
