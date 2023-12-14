@@ -2,7 +2,8 @@
 # In this, every patient can leave his name and adress
 # And we send them a chrismas card
 
-# To complete this project, we will create variables with string values and connect them in two ways
+# To complete this project, we will create variables with string values and connect them
+# In this project, we will explore two ways to accomplish it
 
 # 1. Step: create the patient name and adress as a string
 patient_name = "John Doe"
