@@ -6,3 +6,4 @@ We want to get into data types like string, integar, float and boolean. Afer thi
 ## Recommended order of projects:
 
 1. mail_merge
+2. scrabble
