@@ -16,7 +16,7 @@ print(type(time))
 ```
 def_as_float = float(9)
 ```
-### Calculations
+## Calculations
 Python performs the arithmetic operations of addition, subtraction, multiplication, and division with +, -, *, and /.
 Notice that when we perform division, the result has a decimal place. This is because Python converts all ints to floats before performing division.
 ```
