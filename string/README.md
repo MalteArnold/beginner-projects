@@ -12,5 +12,5 @@ Try to solve the project inside the .py files on your own and use the solution i
 
 1. mail_merge
 2. scrabble
-3. work_with_string
-4. madlibs
+3. madlibs
+4. work_with_string
