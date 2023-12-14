@@ -1,7 +1,7 @@
 # In this project, we want to find a word in a round of the game Scrabble
 # For this, we have a random order of letters and want to rearrange them to form a word
 
-# We need to address individual letters from the string
+# We need to address individual letters from the string and rearrange them
 
 # 1. Step: create a string of letters
 letters = "tdaa"
