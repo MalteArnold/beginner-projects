@@ -1,7 +1,7 @@
 # beginner-projects
-These are some projects to start coding with python. All of these are 100% beginner-friendly
+These are some projects to start coding with Python. All of these are 100% beginner-friendly.
 
-We want to get into data types like string, integar, float and boolean. Afer this we want to work with koplex data structures like lists, dictionarys etc.
+We want to get into data types like strings, integers, floats, and booleans. After this, we want to work with complex data structures like lists, dictionaries, etc."
 
 ## Recommended order of projects:
 
