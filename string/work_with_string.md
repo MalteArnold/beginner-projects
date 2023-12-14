@@ -30,3 +30,10 @@ string_2 = string + " and i am living in New York"
 ```
 string_3 = "Hola " + test[6:] # changes `Hello` to `Hola`
 ```
+### Joining strings using `.join()` and displaying it using `print()`
+```
+str1 = "I am living in the USA"
+str2 = "I was born in Germany"
+str3 = " but ".join([str1, str2])
+print(str3)
+```
