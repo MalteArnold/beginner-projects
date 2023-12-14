@@ -3,6 +3,6 @@ These are some projects to start coding with python. All of these are 100% begin
 
 We want to get into data types like string, integar, float and boolean. Afer this we want to work with koplex data structures like lists, dictionarys etc.
 
-# # Recommended order of projects:
+## Recommended order of projects:
 
 1. mail_merge
