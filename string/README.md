@@ -1,4 +1,4 @@
-# In this projects we want to work with strings
+# Working with strings
 
 A string is a data type that contains a data structure of bytes (or words) that stores a sequence of elements, typically characters.
 
