@@ -1,5 +1,5 @@
 # In this project we want to connect strings and variables to create a madlib
-# There are more than one ways to do this
+# There is more than one way to do this.
 
 name = "Joe"
 location = "New York"
