@@ -14,4 +14,11 @@ But we can store the modified string in a new variable. More on that later.
 ### Accessing individual characters (index) starting from 0, ending at -1 and displaying it using `print()`
 ```
 print(string[0])
+print(string[-1])
+```
+### Slice the sting and displaying it using `print()`
+```
+print(string[1:-3]) # Character 2 to the third-to-last
+print(string[:6]) # Character 1 to 7
+print(string[-3:]) # Character third-to-last to last
 ```
