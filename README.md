@@ -9,6 +9,7 @@ Start with the data type string:
 2. scrabble
 3. work_with_string
 4. madlibs
+
 Continue with int ans float:
 1. shopping_list
 2. receipts
