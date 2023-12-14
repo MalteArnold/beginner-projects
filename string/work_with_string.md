@@ -1,6 +1,5 @@
 # Work with string
 Here we are going to some functions and methods to use the data type string.
-***
 A string is generally considered a data type and is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding.
 ## Store string in variable
 ```
