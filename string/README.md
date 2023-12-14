@@ -7,3 +7,10 @@ Strings can be stored in variables and are declared with " or ' at the beginning
 name = "Joe"
 ```
 Try to solve the project inside the .py files on your own and use the solution if you need it.
+
+## Recommended order of projects:
+
+1. mail_merge
+2. scrabble
+3. work_with_string
+4. madlibs
