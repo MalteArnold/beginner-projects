@@ -7,3 +7,4 @@ We want to get into data types like strings, integers, floats, and booleans. Aft
 
 1. mail_merge
 2. scrabble
+3. work_with_string
