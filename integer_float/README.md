@@ -8,4 +8,5 @@ float = 3.5
 ## How to use
 Start with the work_with_int_float.md file in this folder. The work_with_int_float.md contains some functions and methods to work with this data type. Get used to this before you start the projects. Every project requires you to code a program to fix a problem. The solution to the projects is in the same .py file. First, try to solve it on your own and only use the solution if you need it.
 ## Recommended order of projects:
-1. 
+1. shopping_list
+2. receipts
