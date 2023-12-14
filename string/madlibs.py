@@ -1,4 +1,4 @@
-# In this project we want to connect strings and variables to create a madlib
+# In this project, we want to connect strings and variables to create a madlib
 # There is more than one way to do this.
 
 name = "Joe"
