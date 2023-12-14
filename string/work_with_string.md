@@ -22,3 +22,11 @@ print(string[1:-3]) # Character 2 to the third-to-last
 print(string[:6]) # Character 1 to 7
 print(string[-3:]) # Character third-to-last to last
 ```
+### Combining strings to create a new string
+```
+string_2 = string + " and i am living in New York"
+```
+### Combining a part of a string to create a new string
+```
+string_3 = "Hola " + test[6:] # changes `Hello` to `Hola`
+```
