@@ -6,3 +6,5 @@ Strings can be stored in variables and are declared with " or ' at the beginning
 ```
 name = "Joe"
 ```
+***
+Try to solve the project inside the .py files on your own and use the solution if you need it.
