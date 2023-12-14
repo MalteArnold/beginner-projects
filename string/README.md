@@ -9,5 +9,6 @@ In every folder, you will find a README.md with additional information and a wor
 ## Recommended order of projects:
 1. mail_merge
 2. scrabble
-3. madlibs
-4. work_with_string
+3. initials
+4. madlibs
+5. work_with_string
