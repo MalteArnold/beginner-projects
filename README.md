@@ -5,6 +5,8 @@ We want to get into data types like strings, integers, floats, and booleans. Aft
 
 ## Recommended order of projects:
 
+Start with the data type string:
 1. mail_merge
 2. scrabble
 3. work_with_string
+4. madlibs
