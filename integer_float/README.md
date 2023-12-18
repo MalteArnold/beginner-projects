@@ -6,7 +6,7 @@ integer = 17
 float = 3.5
 ```
 ## How to use
-Start with the `Work with` section file in this folder. The `Work with` contains some functions and methods to work with this data type. Get used to this before you start the projects. Every project requires you to code a program to fix a problem. The solution to the projects is in the same .py file. First, try to solve it on your own and only use the solution if you need it.
+Start with the `Working with...` section in this file. The `Work with...` contains some functions and methods to work with this data type. Get used to this before you start the projects. Every project requires you to code a program to fix a problem. The solution to the projects is in the same .py file. First, try to solve it on your own and only use the solution if you need it.
 ## Recommended order of projects:
 1. shopping_list
 2. receipts
